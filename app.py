@@ -122,7 +122,7 @@ def generate_response(question, relevant_chunks):
 
 # Example usage
 if __name__ == "__main__":
-    question = "tell me about Angshuman"
+    question = "tell me about salman khan"
     relevant_chunks = query_documents(question)
     answer = generate_response(question, relevant_chunks)
     print(answer.content)
