@@ -1,6 +1,7 @@
-# Document Question-Answering System with Groq LLM
+# A POC on Retrieval-Augmented Generation.
+# An inhouse Question Answer Engine based on LLM
 
-This project implements a document question-answering system using Groq's LLM API and local document embeddings. It allows users to query a collection of documents and receive AI-generated responses based on the relevant content.
+This POC implements an inhouse question-answering system using Groq's LLM API and local document embeddings. It allows users to query a collection of documents and receive AI-generated responses based on the relevant content.
 
 ## Features
 
