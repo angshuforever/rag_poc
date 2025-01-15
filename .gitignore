@@ -138,3 +138,7 @@ wheels/
 !.idea/codeStyles/
 !.idea/runConfigurations/
 !.idea/libraries/
+
+# chroma vector database related files
+.chroma/
+*.chroma/
