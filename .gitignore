@@ -142,3 +142,4 @@ wheels/
 # chroma vector database related files
 .chroma/
 *.chroma/
+chroma*
