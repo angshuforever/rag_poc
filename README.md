@@ -160,8 +160,8 @@ First off, thank you for considering contributing to this project! It's people l
 Code of Conduct
 By participating in this project, you are expected to uphold our Code of Conduct:
 
-Use welcoming and inclusive language
-Be respectful of different viewpoints and experiences
-Gracefully accept constructive criticism
-Focus on what is best for the community
-Show empathy towards other community members
+Use welcoming and inclusive language.
+Be respectful of different viewpoints and experiences.
+Gracefully accept constructive criticism.
+Focus on what is best for the community.
+Show empathy towards other community members.
