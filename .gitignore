@@ -143,3 +143,4 @@ wheels/
 .chroma/
 *.chroma/
 chroma*
+chroma_persistent_storage/*
